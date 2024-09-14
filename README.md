@@ -1,4 +1,4 @@
-<img width="1423" alt="Screenshot 2024-09-14 at 1 45 00 PM" src="https://github.com/user-attachments/assets/597f05a6-fdfb-4e6d-be72-500b9dbf9a83"># easy_buy
+# easy_buy
 Easy Buy website 
 
 Easy Buy - E-commerce Website
@@ -19,3 +19,6 @@ HTML: For structuring web pages.
 CSS: For styling and layout design.
 JavaScript: For dynamic interactivity and managing user actions like adding items to the cart.
 <img width="1423" alt="Screenshot 2024-09-14 at 1 45 00 PM" src="https://github.com/user-attachments/assets/03c2e38a-9ac3-47cc-9b6a-8a74b12974c9">
+<img width="1423" alt="Screenshot 2024-09-14 at 2 25 51 PM" src="https://github.com/user-attachments/assets/dd2f9ece-5dfc-4720-a941-1e65fba4383c">
+<img width="1423" alt="Screenshot 2024-09-14 at 2 26 05 PM" src="https://github.com/user-attachments/assets/5c84da4a-870b-4d46-a2e3-bc5ede14b992">
+<img width="1423" alt="Screenshot 2024-09-14 at 2 26 28 PM" src="https://github.com/user-attachments/assets/e915bd1b-e215-4191-b3a6-05c6c0a1769c">
