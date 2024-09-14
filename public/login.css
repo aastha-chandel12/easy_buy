@@ -1,0 +1,76 @@
+/* login.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('img2.jpg');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+
+.background-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('img2.jpg');
+    /* Replace 'background-image.jpg' with the path to your image */
+    background-size: cover;
+    background-position: center;
+    filter: blur(5px);
+    /* Apply blur effect */
+    z-index: -1;
+    /* Move the overlay behind other content */
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    /* display: flex;
+    text-align: center; */
+    max-width: 400px;
+    margin: 20px auto;
+    background-color: rgb(199, 107, 153);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 94%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px
+}
+
+button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    background-color: #37857a;
+    color: rgb(251, 249, 251);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #bf85d4;
+}
+
+@media (max-width: 600px) {
+    form {
+        width: 82%;
+        margin-top: 40%;
+        margin-left: 3%;
+        border-radius: 5px;
+    }
+
+
+}
