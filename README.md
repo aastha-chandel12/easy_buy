@@ -1,4 +1,4 @@
-# easy_buy
+<img width="1423" alt="Screenshot 2024-09-14 at 1 45 00 PM" src="https://github.com/user-attachments/assets/597f05a6-fdfb-4e6d-be72-500b9dbf9a83"># easy_buy
 Easy Buy website 
 
 Easy Buy - E-commerce Website
@@ -18,3 +18,4 @@ Technologies Used:
 HTML: For structuring web pages.
 CSS: For styling and layout design.
 JavaScript: For dynamic interactivity and managing user actions like adding items to the cart.
+<img width="1423" alt="Screenshot 2024-09-14 at 1 45 00 PM" src="https://github.com/user-attachments/assets/03c2e38a-9ac3-47cc-9b6a-8a74b12974c9">
